@@ -4,10 +4,43 @@
     <string name="activity_main_desc">Check live rates, set rate alerts, receive notifications and more.</string>
     <string name="number_edittext_hint">00.00</string>
     <string name="activity_main_exchange_rate">Indicative Exchange Rate</string>
+    <string name="activity_main_convert_btn_text">Convert</string>
     <string-array name="currencies">
+        <item>THB</item>
+        <item>XRP</item>
         <item>USD</item>
-        <item>RUB</item>
-        <item>EUR</item>
+        <item>BGN</item>
+        <item>MDL</item>
         <item>TRY</item>
+        <item>AZN</item>
+        <item>CHF</item>
+        <item>CNY</item>
+        <item>CAD</item>
+        <item>SGD</item>
+        <item>GEL</item>
+        <item>RSD</item>
+        <item>NZD</item>
+        <item>JPY</item>
+        <item>ZEC</item>
+        <item>UAH</item>
+        <item>AUD</item>
+        <item>MYR</item>
+        <item>GBP</item>
+        <item>VND</item>
+        <item>LKR</item>
+        <item>ILS</item>
+        <item>KZT</item>
+        <item>RUB</item>
+        <item>ETH</item>
+        <item>BTG</item>
+        <item>IDR</item>
+        <item>AED</item>
+        <item>BTC</item>
+        <item>AMD</item>
+        <item>MMK</item>
+        <item>EUR</item>
+        <item>BCH</item>
+        <item>BYN</item>
+        <item>KGS</item>
     </string-array>
 </resources>
