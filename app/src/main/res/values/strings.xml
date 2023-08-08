@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HelloWorldProject</string>
+    <string name="activity_main_title">Currency Converter</string>
+    <string name="activity_main_desc">Check live rates, set rate alerts, receive notifications and more.</string>
+    <string name="number_edittext_hint">00.00</string>
+    <string name="activity_main_exchange_rate">Indicative Exchange Rate</string>
+    <string-array name="currencies">
+        <item>USD</item>
+        <item>RUB</item>
+        <item>EUR</item>
+        <item>TRY</item>
+    </string-array>
+</resources>
