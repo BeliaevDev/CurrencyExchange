@@ -6,4 +6,9 @@
     <color name="light_blue_600">#FF039BE5</color>
     <color name="gray_400">#FFBDBDBD</color>
     <color name="gray_600">#FF757575</color>
+    <color name="spinner_gray">#3C3C3C</color>
+    <color name="title_blue">#1F2261</color>
+    <color name="spinner_blue">#26278D</color>
+    <color name="text_gray">#A1A1A1</color>
+    <color name="background_gray">#F6F6F6</color>
 </resources>

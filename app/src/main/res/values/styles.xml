@@ -4,4 +4,13 @@
         <item name="android:background">@color/gray_400</item>
         <item name="exampleColor">@color/light_blue_400</item>
     </style>
+    <style name="BtnStyle">
+        <item name="android:width">50dp</item>
+        <item name="android:height">50dp</item>
+        <item name="android:colorAccent">#26278D</item>
+    </style>
+    <style name="shadow">
+        <item name="android:ambientShadowAlpha">0.01</item>
+        <item name="android:spotShadowAlpha">0.08</item>
+    </style>
 </resources>
